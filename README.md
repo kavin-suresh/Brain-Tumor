@@ -1,2 +1,6 @@
 # Brain-Tumor
-A project involving Brain Tumor detection, Similarity Prediction and Counter Factual Analysis
+A project involves 
+Brain Tumor detection 
+Similarity Prediction
+Counter Factual Prediction
+Emotional Impact Analysis
